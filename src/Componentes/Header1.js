@@ -45,10 +45,7 @@ export default function Header1() {
       >
         
         <p className='display-3  text-wrap '>Festival de Aplicativos da Iniciativa CODE</p>
-        <p className='display-8  text-wrap'> O evento tem como objetivo promover a criatividade tecnológica dos </p>
-        <p className='display-8  text-wrap'> alunos integrantes do Projeto CODE, através da construção</p>
-        <p className='display-8  text-wrap'> de aplicativos para dispositivos Android </p>
-        <p className='display-8 text-wrap'> na plataforma MIT App Inventor</p>
+        <p className='text-wrap'> O evento tem como objetivo promover a criatividade tecnológica dos alunos integrantes do Projeto CODE, através da construçãode aplicativos para dispositivos Android na plataforma MIT App Inventor</p>
         <a className='border border-primary p-4 mb-20 rounded-pill' href="vota">Votação</a>
 
         
